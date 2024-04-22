@@ -1,0 +1,81 @@
+.icon-tabs .icon-tabs {
+	position: relative;
+}
+.icon-tabs .tab-info {
+	left: 0;
+	margin-left: -100%;
+	position: absolute;
+	text-align: center;
+	top: 70px;
+	width: 100%;
+}
+}
+.icon-tabs .tab-content {
+	text-align: center;
+}
+.icon-tabs .tab-content {
+	padding-top: 20px;
+}
+.page-header {
+	border-bottom: 0;
+	margin: 0;
+	background-color: #f6f6f6;
+	padding: 20px 0;
+}
+.page-header .page-title span {
+	color: #333;
+	font-size: 20px;
+}
+.service-list {
+	padding: 80px 0 20px;
+}
+.services-box {
+    margin-bottom: 60px;
+    padding: 0 10px;
+    text-align: center;
+}
+.service-icon {
+	margin-bottom: 30px;
+}
+.services-box > a {
+	display: inline-block;
+}
+.services-box a{
+    color: #666;
+}
+.section-header{
+    margin-bottom:50px
+}
+.services-box i {
+	font-size: 34px;
+	color: #666;
+	width: 80px;
+	height: 80px;
+	background-color: #f6f6f6;
+	line-height: 80px;
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid #efefef;
+}
+.other-services .services-box i {
+	background-color: #fff;
+}
+.services-box h4 {
+	color: #333;
+	font-weight: normal;
+	margin: 0 0 20px;
+}
+.other-services {
+	background-color: #f9f9f9;
+	padding: 80px 0 20px;
+}
+.services-box p {
+	font-size: 14px;
+	margin: 0;
+}
+.sidebar-right .widget:last-child {
+	margin-bottom: 0;
+}
+.service-content p:last-child {
+	margin-bottom: 0;
+}
